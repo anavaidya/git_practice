@@ -1,0 +1,8 @@
+This is file 1 that I am using for Git practice.
+
+Randomly adding text here...
+line 1
+line 2
+line 3
+
+ok, this is good.
